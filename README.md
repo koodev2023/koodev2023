@@ -1,6 +1,6 @@
 # Hello world 👋, I'm Mark, an aspiring full-stack developer!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koodev/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lam-koo/)
 
 I'm passionate about crafting efficient and user-friendly applications as a **Full-Stack Developer**. My expertise lies in leveraging **Java** and modern **web technologies** to build robust and engaging solutions for both the front-end and back-end.
 
