@@ -31,7 +31,7 @@ I'm actively seeking exciting opportunities in **Backend** or **Full-Stack** rol
 
 I'm always open to connecting with fellow developers, collaborators, and companies looking for passionate talent. Feel free to reach out!
 
-*   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koodev/)
+*   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lam-koo/)
 
 
 ---
